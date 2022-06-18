@@ -1,3 +1,33 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@Swathy459 
+Swathy459
+/
+java-web-app-docker1
+Public
+forked from sandeepdurai/java-web-app-docker
+Code
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+java-web-app-docker1/src/main/webapp/WEB-INF/views/jsp/index.jsp
+@sandeepdurai
+sandeepdurai update
+Latest commit 8b37908 on 19 May 2020
+ History
+ 2 contributors
+@devopstrainingbanglore@sandeepdurai
+Executable File  63 lines (52 sloc)  1.47 KB
+
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <!DOCTYPE html>
@@ -48,7 +78,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; cloudcandy 2020</p>
 	</footer>
 </div>
 
@@ -61,3 +91,16 @@
 
 </body>
 </html>
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
